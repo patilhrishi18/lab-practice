@@ -1,0 +1,5 @@
+pip install sklearn-pandas	anaconda prompt
+
+
+import nltk
+nltk.download()			notebook

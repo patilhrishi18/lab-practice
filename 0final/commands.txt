@@ -1,0 +1,17 @@
+for CPP
+g++ filename.cpp -fopenmp
+./a.out
+
+
+
+
+
+for prolog
+file->consult->select file
+
+for birds
+bird(Type).
+
+for medical
+hypothesis(Disease).
+
